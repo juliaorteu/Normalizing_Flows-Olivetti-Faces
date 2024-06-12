@@ -4,7 +4,7 @@
 
 - `REPORT.pdf`: Documentation of the process, results, and conclusions from the Flow Normalization experiment applied to the Olivetti Faces dataset.
 
-- `NormalizingFlows_Entregable.ipynb`: Jupyter Notebook containing the code for the experiment.
+- `NormalizingFlows.ipynb`: Jupyter Notebook containing the code for the experiment.
 
 - `Figures/`: Directory with the figures generated during the experiment.
 
