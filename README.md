@@ -10,4 +10,4 @@
 
 - `rnvp_olivetti_faces.pt`: Pre-trained model for Olivetti Faces. It can be used to load the model and generate additional samples without the need for further training.
 
-![Random Face Samples](Figures/Caras_Muestra_Random.png)
+<img src="Figures/Caras_Muestra_Random.png" alt="Random Face Samples" width="300"/>
